@@ -12,7 +12,13 @@ This is a simple static website hosted using **GitHub Pages**.
 - `script.js` contains a JavaScript function.
 
 ## 📦 Deployment Steps
+1. Clone this repo:
+   
+   git clone https://github.com/Murali-Krishna-kartik/Task5.git
+Open the folder:
 
-1. Create a new repo named `<yourusername>.github.io`
-2. Clone the repo:
+cd responsive-layout
+Open index.html in your browser.
+
+Use Chrome DevTools (F12) and toggle device toolbar to test responsiveness.
 
